@@ -5,9 +5,9 @@
 <img src="https://i.imgur.com/JlFDiTq.png"/>
 
 <div align=center>
-    <img src="https://github-readme-stats.vercel.app/api?username=ZaxVaxZ&count_private=true&show_icons=true&theme=anuraghazra&border_color=ff00ff&text_color=ff66ff&title_color=a755ff&icon_color=5555ff&bg_color=60%2c550055%2c330033%2c110011%2c000000&hide=issues" height=180/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ZaxVaxZ&count_private=true&show_icons=true&theme=anuraghazra&border_color=ff00ff&text_color=ff66ff&title_color=a755ff&icon_color=5555ff&bg_color=60%2c550055%2c330033%2c110011%2c000000&hide=issues" height=150/>
   <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaxVaxZ&layout=compact&theme=anuraghazra&border_color=ff00ff&text_color=ff66ff&title_color=a755ff&icon_color=44ff00&bg_color=60%2c550055%2c330033%2c110011%2c000000"/>
+    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZaxVaxZ&layout=compact&theme=anuraghazra&border_color=ff00ff&text_color=ff66ff&title_color=a755ff&icon_color=44ff00&bg_color=60%2c550055%2c330033%2c110011%2c000000"/>
 </div>
 
 ## 🔎 Notable Repositories
