@@ -1,4 +1,4 @@
-<h2>🧑‍💻 About Me <img src="https://komarev.com/ghpvc/?username=ZaxVaxZ" align="right" height=30></h2>
+<h2>🧑‍💻 About Me <img src="https://komarev.com/ghpvc/?username=ZaxVaxZ" align="right" height=28></h2>
 
 ### &nbsp;&nbsp; 👋 Hello! I'm ZAX &nbsp; | &nbsp; 🛠️ I'm an A.I Engineer &nbsp; | &nbsp; 🤖 Creator of ShadowBOT
 
