@@ -13,6 +13,20 @@
 ## 🔎 Notable Repositories
 
 <details>
+  <summary><strong>&nbsp; ShadowBOT</strong></summary>
+    <br>
+  <p><strong>Discord bot written in JavaScript, created to provide assistance in servers running <a href="https://bloodontheclocktower.com/">Blood On The Clocktower</a> games, Check it out here: </strong><a href="https://github.com/ZaxVaxZ/ShadowBOT">ShadowBOT</a></p>
+  <p><strong>It features 50+ commands, and is in use 24/7 in 100+ discord servers!</strong></p>
+</details>
+<br>
+<details>
+  <summary><strong>&nbsp; PrimeYears Website</strong></summary>
+    <br>
+  <p><strong>Live service website for a clinic created with PHP Laravel and Bootstrap, Check it out here: </strong><a href="https://primeyears.de">PrimeYears</a></p>
+  <p><strong>Freelance commissioned website for a clinic, with a client-side dashboard, .</strong></p>
+</details>
+<br>
+<details>
   <summary><strong>&nbsp; Minishell</strong></summary>
     <br>
   <p><strong>My own (limited) version of Bash written in C. Check it out here: </strong><a href="https://github.com/ZaxVaxZ/Minishell">Minishell</a></p>
@@ -35,20 +49,6 @@
   <p><strong>A solution to the Dining Philosophers Problem written in C, Check it out here: </strong><a href="https://github.com/ZaxVaxZ/Philosophers">Philosophers</a></p>
   <p><strong>This project revolves around parallel execution using threads, while maintaining thread safety and preventing a race condition in data usage.</strong></p>
   <p><strong>You can read more about the Dining Philosophers Problem in the README of my repository.</strong></p>
-</details>
-<br>
-<details>
-  <summary><strong>&nbsp; ShadowBOT</strong></summary>
-    <br>
-  <p><strong>Discord bot written in JavaScript, created to provide assistance in servers running [Blood On The Clocktower](https://bloodontheclocktower.com/) games, Check it out here: </strong>ers][Philosoph(https://github.com/ZaxVaxZ/Philosophers)</p>
-  <p><strong>It features 50+ commands, and is in use 24/7 in 100+ discord servers!</strong></p>
-</details>
-<br>
-<details>
-  <summary><strong>&nbsp; PrimeYears Website</strong></summary>
-    <br>
-  <p><strong>Live service website for a clinic created with PHP Laravel and Bootstrap, Check it out here: </strong><a href="https://primeyears.de">PrimeYears</a></p>
-  <p><strong>Freelance commissioned website for a clinic, with a client-side dashboard, .</strong></p>
 </details>
 <br>
 <details>
