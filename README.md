@@ -14,7 +14,7 @@
 
 <details>
   <summary><strong>&nbsp; Minishell</strong></summary>
-  <p><strong>My own (limited) version of Bash written in C. Check it out here: </strong>[Minishell]([url](https://github.com/ZaxVaxZ/Minishell))</p>
+  <p><strong>My own (limited) version of Bash written in C. Check it out here: </strong> [Minishell](https://github.com/ZaxVaxZ/Minishell) </p>
   <p><strong>This shell comes with command piping, input/output redirection, && || logic operators, semicolon for command and output separation, environment and local variables support as well as running shell scripts.</strong></p>
   <p><strong>It has proper memory, signal and file descriptor handling.</strong></p>
 </details>
