@@ -14,14 +14,14 @@
 
 <details>
   <summary><strong>&nbsp; Minishell</strong></summary>
-  <p><strong>My own (limited) version of Bash written in C. Check it out here: </strong></p>[Minishell](https://github.com/ZaxVaxZ/Minishell)
+  <p><strong>My own (limited) version of Bash written in C. Check it out here: </strong><a href="https://github.com/ZaxVaxZ/Minishell">Minishell</a></p>
   <p><strong>This shell comes with command piping, input/output redirection, && || logic operators, semicolon for command and output separation, environment and local variables support as well as running shell scripts.</strong></p>
   <p><strong>It has proper memory, signal and file descriptor handling.</strong></p>
 </details>
 <br>
 <details>
   <summary><strong>&nbsp; MiniRT</strong></summary>
-  <p><strong>A basic digital graphics renderer written in C using the MinilibX graphics library. Check it out here: </strong></p>[MiniRT](https://github.com/ZaxVaxZ/MiniRT)
+  <p><strong>A basic digital graphics renderer written in C using the MinilibX graphics library. Check it out here: </strong><a href="https://github.com/ZaxVaxZ/MiniRT">MiniRT</a></p>
   <p><strong>It provides a Camera with a customizable FOV and Focal Length, and supports basic shapes (Boxes, Spheres, Cylinders, Planes), a Point Light and Ambient Lighting. All with customizable RGB colors.</strong></p>
   <p><strong>The lighting system comes with diffuse lighting, ambience, spot lighting and hard shadows.</strong></p>
   <p><strong>You can also create your own custom .rt scene files following the formatting in the documentation.</strong></p>
@@ -29,7 +29,7 @@
 <br>
 <details>
   <summary><strong>&nbsp; Philosophers</strong></summary>
-  <p><strong>A solution to the Dining Philosophers Problem written in C, Check it out here: </strong></p>[Philosophers](https://github.com/ZaxVaxZ/Philosophers)
+  <p><strong>A solution to the Dining Philosophers Problem written in C, Check it out here: </strong><a href="https://github.com/ZaxVaxZ/Philosophers">Philosophers</a></p>
   <p><strong>This project revolves around parallel execution using threads, while maintaining thread safety and preventing a race condition in data usage.</strong></p>
   <p><strong>You can read more about the Dining Philosophers Problem in the README of my repository.</strong></p>
 </details>
@@ -43,7 +43,7 @@
 <br>
 <details>
   <summary><strong>&nbsp; PrimeYears Website</strong></summary>
-  <p><strong>Live service website for a clinic created with PHP Laravel and Bootstrap, Check it out here: </strong></p>[PrimeYears](https://primeyears.de)
+  <p><strong>Live service website for a clinic created with PHP Laravel and Bootstrap, Check it out here: </strong><a href="https://primeyears.de">PrimeYears</a></p>
   <p><strong>Freelance commissioned website for a clinic, with a client-side dashboard, .</strong></p>
 </details>
 <br>
