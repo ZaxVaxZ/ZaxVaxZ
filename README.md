@@ -50,12 +50,6 @@
   <p><strong>This project revolves around parallel execution using threads, while maintaining thread safety and preventing a race condition in data usage.</strong></p>
   <p><strong>You can read more about the Dining Philosophers Problem in the README of my repository.</strong></p>
 </details>
-<br>
-<details>
-  <summary><strong>&nbsp; Pixel-Positions</strong></summary>
-    <br>
-  <p><strong>Project description</strong></p>
-</details>
 
 ## 🎸 Other Ventures
 
